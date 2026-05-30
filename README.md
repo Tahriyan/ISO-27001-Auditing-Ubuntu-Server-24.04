@@ -1,10 +1,7 @@
-# Hardening e Compliance Tecnica ISO 27001 su Ubuntu 24.04
-Auditing di conformità ISO 27001 su Ubuntu Server 24.04 LTS.  Progetto personale realizzato interamente su **Obsidian**
-
----
+# Hardening CIS Benchamrk & ISO 27001 Mapping - Ubuntu 24.04
 
 ### 🎯 Obiettivo del Progetto
-Dimostrare che è possibile portare un server **Ubuntu 24.04 LTS** in uno stato di buona compliance (**ISO 27001** + **CIS Benchmark**) utilizzando solo strumenti gratuiti, senza Ubuntu Pro
+Dimostrare che è possibile portare un server **Ubuntu 24.04 LTS** in uno stato di buona compliance (**Mappatura ISO 27001** + **CIS Benchmark**) utilizzando solo strumenti gratuiti, senza Ubuntu Pro
 
 ### 🛠️ Cosa ho fatto
 - Creazione di un comune fittizio che utilizza Nextcloud
