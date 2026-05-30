@@ -1,4 +1,4 @@
-# ISO-27001-Auditing-Ubuntu-Server-24.04
+# Hardening e Compliance Tecnica ISO 27001 su Ubuntu 24.04
 Auditing di conformità ISO 27001 su Ubuntu Server 24.04 LTS.  Progetto personale realizzato interamente su **Obsidian**
 
 ---
